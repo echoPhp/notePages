@@ -1,5 +1,6 @@
 #Разработка приложения “NotePages”
-##Перед началом работы [изучить](https://github.com/CawaKharkov/notePages/issues/2)!
+##[Скайп чат](skype:?chat&blob=C2UFxy0LvCTC88EN_3T7uSR-RSIwYkOZ5-_-4nWNRexPDJqVwp2wbHBzxrJZFJw)
+##Перед началом работы [изучить](https://github.com/CawaKharkov/notePages/issues/2)! 
 
 >##План работы:
 
