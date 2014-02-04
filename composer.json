@@ -1,0 +1,21 @@
+{
+    "name": "cawa/note-pages",
+    "description": "Simple note application",
+    "require": {
+        "phpunit/phpunit": "dev-master",
+        "doctrine/orm": "*"
+    },
+    "license": "GNU General Public License",
+    "authors": [
+        {
+            "name": "CawaKharkov",
+            "email": "cawa123@mail.ru"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "Application\\": "src/"
+        }
+    }
+}
