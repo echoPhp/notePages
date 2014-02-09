@@ -1,11 +1,11 @@
 {
-    "name": "cawa/note-pages",
+    "name": "echoPhp/note-pages",
     "description": "Simple note application",
     "require": {
         "phpunit/phpunit": "dev-master",
         "doctrine/orm": "*"
     },
-    "license": "GNU General Public License",
+    "license": "The MIT License (MIT)",
     "authors": [
         {
             "name": "CawaKharkov",
