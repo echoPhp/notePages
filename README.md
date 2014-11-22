@@ -1,5 +1,7 @@
 #Разработка приложения “NotePages”
 
+## Зачем мы вообще [это придумали и для чего делаем](https://github.com/echoPhp/notePages/issues/6)
+
 ##Перед началом работы [изучить](https://github.com/CawaKharkov/notePages/issues/2) и [записаться](https://github.com/CawaKharkov/notePages/issues/1)! 
 
 >##План работы:
